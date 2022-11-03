@@ -8,14 +8,14 @@
   "legacy_uid": "",
   "instructors": {
     "content": [],
-    "website": "test-123"
+    "website": "test-sometyhing"
   },
   "course_image": {
     "content": "",
-    "website": "test-123"
+    "website": "test-sometyhing"
   },
-  "course_title": "Lorem Ipsum",
-  "course_description": "**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "course_title": "Test Publish",
+  "course_description": "",
   "department_numbers": [
     "1"
   ],
@@ -23,8 +23,10 @@
   "primary_course_number": "123",
   "course_image_thumbnail": {
     "content": "",
-    "website": "test-123"
+    "website": "test-sometyhing"
   },
-  "learning_resource_types": [],
-  "site_uid": "95a4df6a-f194-4408-91ab-40b198c57d32"
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "2207d6d3-3a2d-4136-9891-0cd319043b91"
 }
