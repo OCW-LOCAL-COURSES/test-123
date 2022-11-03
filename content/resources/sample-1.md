@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test-sometyhing/sample-1.pdf
+file: /media/courses/123-test-publish-spring-2022/sample-1.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
