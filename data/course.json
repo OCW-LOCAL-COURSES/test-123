@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-sometyhing"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-sometyhing"
+  },
+  "course_title": "Test Publish",
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-sometyhing"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "2207d6d3-3a2d-4136-9891-0cd319043b91"
+}
