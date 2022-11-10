@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/123-test-publish-spring-2022/sample-2.pdf
+file: /media/courses/test-con/sample-2.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: sample (2).pdf
-uid: eb6d7d7f-e9ca-4ffd-97a5-d957b4ed9107
+uid: d3ddacca-83d9-4082-b89f-dbbf6f9a333b
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
