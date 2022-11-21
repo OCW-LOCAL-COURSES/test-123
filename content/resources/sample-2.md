@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test-con/sample-2.pdf
+file: /media/courses/123-testing-course-spring-2022/sample-2.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
